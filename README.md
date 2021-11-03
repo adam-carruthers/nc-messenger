@@ -1,5 +1,10 @@
 # nc-messenger
 
+# Laura's Section
+
+What do you call a man with a shovel on his head? Doug
+
+
 BEANS MUST TOUCH BREAD ONCE A WEEK: GABAGOOL!
 
 beans
