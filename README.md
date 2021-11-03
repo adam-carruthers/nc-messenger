@@ -1,6 +1,6 @@
 # nc-messenger
 
-GABAGOOL
+BEANS MUST TOUCH BREAD ONCE A WEEK: GABAGOOL!
 
 beans
 
