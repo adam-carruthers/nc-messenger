@@ -1,1 +1,3 @@
 # nc-messenger
+
+BEANS MUST TOUCH BREAD ONCE A WEEK
