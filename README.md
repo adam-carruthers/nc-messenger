@@ -4,7 +4,8 @@
 
 What do you call a man with a shovel on his head? Doug
 
-GABAGOOL
+
+BEANS MUST TOUCH BREAD ONCE A WEEK: GABAGOOL!
 
 beans
 
