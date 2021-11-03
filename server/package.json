@@ -4,8 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
+
+    "test": "jest ",
+   "setup-dbs": "psql -f ./db/setup.sql",
+
     "dev": "nodemon listen.js"
+
   },
   "repository": {
     "type": "git",
